@@ -5,6 +5,13 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErmPowerTask", "ErmPowerTask\ErmPowerTask.csproj", "{96F29300-9315-4058-8AF5-08F2E1280505}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErmPowerTask.Test", "ErmPowerTask.Test\ErmPowerTask.Test.csproj", "{38DE4218-83A9-4D2C-8762-4B8583DD17D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{97A4AC5E-3055-4C8E-8FE5-F0AFBD2145F8}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{96F29300-9315-4058-8AF5-08F2E1280505}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96F29300-9315-4058-8AF5-08F2E1280505}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96F29300-9315-4058-8AF5-08F2E1280505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38DE4218-83A9-4D2C-8762-4B8583DD17D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DE4218-83A9-4D2C-8762-4B8583DD17D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DE4218-83A9-4D2C-8762-4B8583DD17D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DE4218-83A9-4D2C-8762-4B8583DD17D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
